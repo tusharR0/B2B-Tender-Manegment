@@ -1,2 +1,7 @@
-node_modules
+node_modules/
 .env
+*.log
+frontend/.next/
+frontend/out/
+backend/node_modules/
+backend/.env
